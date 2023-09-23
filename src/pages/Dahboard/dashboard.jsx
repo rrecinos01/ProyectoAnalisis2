@@ -431,6 +431,7 @@ export default function PaginationDemo() {
     const { basicOptions, horizontalOptions, multiAxisOptions, stackedOptions } = getLightTheme();
     return (
         <div>
+            <br></br>
             <Row>
                 <Col lg={12} md={12} sm={12} xl={12}>
                     <Row>

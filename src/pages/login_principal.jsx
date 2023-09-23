@@ -40,8 +40,8 @@ const login_principal = () => {
                 <div style={{ borderRadius: '56px', padding: '0.3rem', background: 'linear-gradient(180deg, var(--primary-color) 10%, rgba(33, 150, 243, 0) 30%)' }}>
                     <div className="w-full surface-card py-8 px-5 sm:px-8" style={{ borderRadius: '53px' }}>
                         <div className="text-center mb-5">
-                            <div className="text-900 text-3xl font-medium mb-3">Bienvenido a La Tablita Feliz!</div>
-                            <span className="text-600 font-medium">Sign in to continue</span>
+                            <div className="text-900 text-3xl font-medium mb-3">Bienvenido a Vercel. G.N!</div>
+                            <span className="text-600 font-medium">Iniciar sesión para continuar</span>
                         </div>
 
                         <div>
