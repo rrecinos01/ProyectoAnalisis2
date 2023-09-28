@@ -13,7 +13,7 @@ import { ProgressBar } from 'primereact/progressbar';
 import { Calendar } from 'primereact/calendar';
 import { MultiSelect } from 'primereact/multiselect';
 import { Slider } from 'primereact/slider';
-import { CustomerService } from '../service/CustomerService';
+import { CustomerService } from '../../components/service/CustomerService';
 export default function PaginationDemo() {
     const [customers, setCustomers] = useState(null);
     const [selectedCustomers, setSelectedCustomers] = useState(null);

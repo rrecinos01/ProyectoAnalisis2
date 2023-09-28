@@ -12,7 +12,7 @@ import { Toast } from 'primereact/toast';
 import { Toolbar } from 'primereact/toolbar';
 import { classNames } from 'primereact/utils';
 import React, { useEffect, useRef, useState } from 'react';
-import { ProductService } from '../pages/service/ProductService';
+import { ProductService } from '../components/service/ProductService';
 
 const perfil = () => {
     let emptyProduct = {
